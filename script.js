@@ -4,13 +4,13 @@ const testimonials = [
     name: "Dave",
     job: "Past client",
     testimonial:
-      "You (Chris) are one of the only people I've liked coming to. Everyone else lectures me about how the brain works. I already know all that. You actually listen to me and help me with things that are happening in my life.",
+      "I've been to speak with a few other professionals. You are one of the only people I've liked coming to talk to. Everyone else lectures me about how the brain works, I already know all that and don't need to keep hearing about it. You actually listen to me and help me with things that are happening in my life.",
   },
   {
     name: "Stacey",
     job: "Mother of past client",
     testimonial:
-      "We have seen such a change in Shawn since he started coming to see you. His confidence is so much higher and his (issue) that he came to see you about is no longer a problem for him. I would love for him to continue working with you if possible, or come back to see you in the future",
+      "We have seen such a change in Shawn since he started having regular appointments with you. His confidence is so much higher and his anxiety regarding certain things is no longer a problem for him. I'd love for him to continue seeing you, or at least come back to see you in the future if you think it would help him with other things.",
   },
 ];
 
